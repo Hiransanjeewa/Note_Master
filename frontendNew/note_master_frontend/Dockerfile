@@ -13,6 +13,8 @@ COPY package.json package-lock.json /my-portfolio/
 # Installing dependencies
 RUN npm install
 
+# Install react-cookie
+RUN npm install react-cookie
 
 # Copying all the files in our project
 COPY . .
