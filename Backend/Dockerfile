@@ -1,20 +1,23 @@
-# Fetching the minified node image on apline linux
-FROM node:20.9-alpine
+# Fetching the latest node image on alpine linux
+FROM node:alpine AS development
 
 # Declaring env
 ENV NODE_ENV development
 
 # Setting up the work directory
-WORKDIR /express-docker
+WORKDIR /my-portfolio
+
+# Copying package.json and package-lock.json
+COPY package.json package-lock.json /my-portfolio/
+
+# Installing dependencies
+RUN npm install
+RUN npm install react-router-dom
+
 
 # Copying all the files in our project
 COPY . .
 
-# Installing dependencies
-RUN npm install
-
+EXPOSE 3000
 # Starting our application
-CMD [ "node", "index.js" ]
-
-# Exposing server port
-EXPOSE 3001
+CMD npm start
