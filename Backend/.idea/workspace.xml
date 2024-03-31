@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a38af22-0dc5-41b7-bcf1-3b73af55fae3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/color-support" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/color-support" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/color-support.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/color-support.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/fxparser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/fxparser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/fxparser.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/fxparser.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-pre-gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-pre-gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-pre-gyp.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-pre-gyp.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodemon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodemon.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nodetouch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nodetouch.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nopt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nopt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nopt.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/nopt.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/crc32/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/ie11-detection/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-browser/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/sha256-js/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/supports-web-crypto/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-crypto/util/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@aws-sdk/types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@aws-sdk/types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/bin/node-pre-gyp" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/bin/node-pre-gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/.bin/nopt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/.bin/nopt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/.bin/nopt.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/.bin/nopt.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/nopt/bin/nopt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@mapbox/node-pre-gyp/node_modules/nopt/bin/nopt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/AbortController.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/AbortController.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/AbortSignal.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/AbortSignal.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/abort-controller/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/NodeUseDualstackEndpointConfigOptions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/NodeUseDualstackEndpointConfigOptions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/NodeUseFipsEndpointConfigOptions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/NodeUseFipsEndpointConfigOptions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/resolveCustomEndpointsConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/resolveCustomEndpointsConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/resolveEndpointsConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/resolveEndpointsConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/utils/getEndpointFromRegion.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/endpointsConfig/utils/getEndpointFromRegion.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/config.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/getRealRegion.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/getRealRegion.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/isFipsRegion.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/isFipsRegion.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/resolveRegionConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionConfig/resolveRegionConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/EndpointVariant.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/EndpointVariant.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/EndpointVariantTag.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/EndpointVariantTag.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/PartitionHash.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/PartitionHash.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/RegionHash.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/RegionHash.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getHostnameFromVariants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getHostnameFromVariants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getRegionInfo.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getRegionInfo.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedHostname.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedHostname.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedPartition.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedPartition.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedSigningRegion.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/getResolvedSigningRegion.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/config-resolver/dist-types/ts3.4/regionInfo/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/getSmithyContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/getSmithyContext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/getHttpAuthSchemeEndpointRuleSetPlugin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/getHttpAuthSchemeEndpointRuleSetPlugin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/getHttpAuthSchemePlugin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/getHttpAuthSchemePlugin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/httpAuthSchemeMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/httpAuthSchemeMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-auth-scheme/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/getHttpSigningMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/getHttpSigningMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/httpSigningMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/httpSigningMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/middleware-http-signing/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/normalizeProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/normalizeProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/pagination/createPaginator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/pagination/createPaginator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/protocols/requestBuilder.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/protocols/requestBuilder.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/DefaultIdentityProviderConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/DefaultIdentityProviderConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/httpApiKeyAuth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/httpApiKeyAuth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/httpBearerAuth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/httpBearerAuth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/noAuth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/httpAuthSchemes/noAuth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/memoizeIdentityProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/core/dist-types/ts3.4/util-identity-and-auth/memoizeIdentityProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/Endpoint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/Endpoint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointConfigOptions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointConfigOptions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointMode.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointMode.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointModeConfigOptions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/config/EndpointModeConfigOptions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/error/InstanceMetadataV1FallbackError.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/error/InstanceMetadataV1FallbackError.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/fromContainerMetadata.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/fromContainerMetadata.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/fromInstanceMetadata.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/fromInstanceMetadata.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/ImdsCredentials.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/ImdsCredentials.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/RemoteProviderInit.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/RemoteProviderInit.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/httpRequest.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/httpRequest.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/retry.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/remoteProvider/retry.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/getExtendedInstanceMetadataCredentials.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/getExtendedInstanceMetadataCredentials.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/getInstanceMetadataEndpoint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/getInstanceMetadataEndpoint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/staticStabilityProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/credential-provider-imds/dist-types/ts3.4/utils/staticStabilityProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/EventStreamCodec.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/EventStreamCodec.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/HeaderMarshaller.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/HeaderMarshaller.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/Int64.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/Int64.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/Message.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/Message.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/MessageDecoderStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/MessageDecoderStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/MessageEncoderStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/MessageEncoderStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/SmithyMessageDecoderStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/SmithyMessageDecoderStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/SmithyMessageEncoderStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/SmithyMessageEncoderStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/TestVectors.fixture.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/TestVectors.fixture.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/splitMessage.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/splitMessage.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/vectorTypes.fixture.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/eventstream-codec/dist-types/ts3.4/vectorTypes.fixture.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/fetch-http-handler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/fetch-http-handler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/request-timeout.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/request-timeout.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/stream-collector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/fetch-http-handler/dist-types/ts3.4/stream-collector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/hash-node/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/hash-node/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/invalidFunction.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/invalidFunction.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/invalidProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/invalid-dependency/dist-types/ts3.4/invalidProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/is-array-buffer/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/is-array-buffer/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-content-length/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-content-length/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/createConfigValueProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/createConfigValueProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromConfig.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromConfig.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromInstructions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointFromInstructions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointUrlConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/getEndpointUrlConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/toEndpointV1.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/adaptors/toEndpointV1.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/endpointMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/endpointMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/getEndpointPlugin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/getEndpointPlugin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/resolveEndpointConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/resolveEndpointConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/service-customizations/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/service-customizations/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/service-customizations/s3.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/service-customizations/s3.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-endpoint/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/AdaptiveRetryStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/AdaptiveRetryStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/StandardRetryStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/StandardRetryStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/configurations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/configurations.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/defaultRetryQuota.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/defaultRetryQuota.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/delayDecider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/delayDecider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/isStreamingPayload/isStreamingPayload.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/isStreamingPayload/isStreamingPayload.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/isStreamingPayload/isStreamingPayload.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/isStreamingPayload/isStreamingPayload.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/omitRetryHeadersMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/omitRetryHeadersMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/retryDecider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/retryDecider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/retryMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/retryMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-retry/dist-types/ts3.4/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/deserializerMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/deserializerMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/serdePlugin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/serdePlugin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/serializerMiddleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-serde/dist-types/ts3.4/serializerMiddleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/MiddlewareStack.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/MiddlewareStack.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/middleware-stack/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/configLoader.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/configLoader.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromEnv.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromEnv.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromSharedConfigFiles.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromSharedConfigFiles.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromStatic.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/fromStatic.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-config-provider/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/get-transformed-headers.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/get-transformed-headers.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http-handler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http-handler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-connection-manager.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-connection-manager.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-connection-pool.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-connection-pool.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-handler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/node-http2-handler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/readable.mock.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/readable.mock.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/server.mock.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/server.mock.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-connection-timeout.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-connection-timeout.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-socket-keep-alive.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-socket-keep-alive.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-socket-timeout.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/set-socket-timeout.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/collector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/collector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/readable.mock.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/stream-collector/readable.mock.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/write-request-body.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/node-http-handler/dist-types/ts3.4/write-request-body.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/CredentialsProviderError.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/CredentialsProviderError.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/ProviderError.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/ProviderError.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/TokenProviderError.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/TokenProviderError.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/chain.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/chain.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/fromStatic.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/fromStatic.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/memoize.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/property-provider/dist-types/ts3.4/memoize.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/Field.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/Field.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/Fields.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/Fields.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/extensions/httpExtensionConfiguration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/extensions/httpExtensionConfiguration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/extensions/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/extensions/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpHandler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpHandler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpRequest.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpRequest.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpResponse.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/httpResponse.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/isValidHostname.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/isValidHostname.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/protocol-http/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/querystring-builder/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/querystring-builder/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/querystring-parser/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/querystring-parser/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/service-error-classification/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/service-error-classification/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/service-error-classification/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/service-error-classification/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getConfigData.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getConfigData.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getConfigFilepath.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getConfigFilepath.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getCredentialsFilepath.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getCredentialsFilepath.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getHomeDir.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getHomeDir.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getProfileName.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getProfileName.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSSOTokenFilepath.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSSOTokenFilepath.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSSOTokenFromFile.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSSOTokenFromFile.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSsoSessionData.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/getSsoSessionData.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/loadSharedConfigFiles.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/loadSharedConfigFiles.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/loadSsoSessionData.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/loadSsoSessionData.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/mergeConfigFiles.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/mergeConfigFiles.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/parseIni.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/parseIni.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/parseKnownFiles.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/parseKnownFiles.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/slurpFile.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/slurpFile.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/shared-ini-file-loader/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/SignatureV4.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/SignatureV4.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/cloneRequest.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/cloneRequest.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/credentialDerivation.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/credentialDerivation.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getCanonicalHeaders.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getCanonicalHeaders.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getCanonicalQuery.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getCanonicalQuery.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getPayloadHash.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/getPayloadHash.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/headerUtil.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/headerUtil.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/moveHeadersToQuery.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/moveHeadersToQuery.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/prepareRequest.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/prepareRequest.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/suite.fixture.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/suite.fixture.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/utilDate.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/signature-v4/dist-types/ts3.4/utilDate.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/NoOpLogger.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/NoOpLogger.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/collect-stream-body.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/collect-stream-body.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/command.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/command.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/create-aggregated-client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/create-aggregated-client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/date-utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/date-utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/default-error-handler.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/default-error-handler.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/defaults-mode.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/defaults-mode.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/emitWarningIfUnsupportedVersion.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/emitWarningIfUnsupportedVersion.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/exceptions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/exceptions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extended-encode-uri-component.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extended-encode-uri-component.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/checksum.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/checksum.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/defaultExtensionConfiguration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/defaultExtensionConfiguration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/retry.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/extensions/retry.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/get-array-if-single-item.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/get-array-if-single-item.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/get-value-from-text-node.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/get-value-from-text-node.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/lazy-json.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/lazy-json.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/object-mapping.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/object-mapping.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/parse-utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/parse-utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/resolve-path.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/resolve-path.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/ser-utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/ser-utils.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/serde-json.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/serde-json.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/split-every.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/smithy-client/dist-types/ts3.4/split-every.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/abort.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/abort.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpApiKeyAuth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpApiKeyAuth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpAuthScheme.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpAuthScheme.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpAuthSchemeProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpAuthSchemeProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpSigner.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/HttpSigner.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/IdentityProviderConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/IdentityProviderConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/auth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/auth.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/auth/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/blob/blob-payload-input-types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/blob/blob-payload-input-types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/checksum.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/checksum.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/client.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/client.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/command.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/command.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/config.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/manager.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/manager.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/pool.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/connection/pool.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/crypto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/crypto.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/downlevel-ts3.4/transform/type-transform.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/downlevel-ts3.4/transform/type-transform.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/encode.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/encode.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/EndpointRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/EndpointRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/ErrorRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/ErrorRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/RuleSetObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/RuleSetObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/TreeRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/TreeRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/shared.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/endpoints/shared.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/eventStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/eventStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/checksum.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/checksum.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/defaultClientConfiguration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/defaultClientConfiguration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/defaultExtensionConfiguration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/defaultExtensionConfiguration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/retry.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/extensions/retry.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/externals-check/browser-externals-check.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/externals-check/browser-externals-check.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/http.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/http.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/http/httpHandlerInitialization.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/http/httpHandlerInitialization.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/apiKeyIdentity.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/apiKeyIdentity.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/awsCredentialIdentity.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/awsCredentialIdentity.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/identity.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/identity.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/tokenIdentity.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/identity/tokenIdentity.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/logger.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/logger.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/middleware.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/middleware.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/pagination.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/pagination.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/profile.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/profile.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/response.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/response.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/retry.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/retry.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/serde.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/serde.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/signature.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/signature.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/stream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/stream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-common-types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-common-types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-payload-input-types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-payload-input-types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-payload-output-types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/streaming-payload/streaming-blob-payload-output-types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transfer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transfer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/client-method-transforms.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/client-method-transforms.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/client-payload-blob-type-narrow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/client-payload-blob-type-narrow.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/exact.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/exact.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/no-undefined.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/no-undefined.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/type-transform.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/transform/type-transform.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/uri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/waiter.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/types/dist-types/ts3.4/waiter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/url-parser/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/url-parser/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/constants.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/constants.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/fromBase64.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/fromBase64.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/fromBase64.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/fromBase64.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/toBase64.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/toBase64.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/toBase64.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-base64/dist-types/ts3.4/toBase64.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-browser/dist-types/ts3.4/calculateBodyLength.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-browser/dist-types/ts3.4/calculateBodyLength.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-browser/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-browser/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-node/dist-types/ts3.4/calculateBodyLength.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-node/dist-types/ts3.4/calculateBodyLength.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-node/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-body-length-node/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-buffer-from/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-buffer-from/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/booleanSelector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/booleanSelector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/numberSelector.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/numberSelector.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-config-provider/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/resolveDefaultsModeConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/resolveDefaultsModeConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/resolveDefaultsModeConfig.native.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-browser/dist-types/ts3.4/resolveDefaultsModeConfig.native.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/defaultsModeConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/defaultsModeConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/resolveDefaultsModeConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-defaults-mode-node/dist-types/ts3.4/resolveDefaultsModeConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/debugId.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/debugId.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/toDebugString.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/debug/toDebugString.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/getEndpointUrlConfig.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/getEndpointUrlConfig.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/booleanEquals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/booleanEquals.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/getAttr.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/getAttr.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/getAttrPathList.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/getAttrPathList.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isIpAddress.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isIpAddress.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isSet.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isSet.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isValidHostLabel.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/isValidHostLabel.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/not.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/not.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/parseURL.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/parseURL.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/stringEquals.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/stringEquals.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/substring.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/substring.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/uriEncode.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/lib/uriEncode.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/resolveEndpoint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/resolveEndpoint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointError.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointError.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointFunctions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointFunctions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/EndpointRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/ErrorRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/ErrorRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/RuleSetObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/RuleSetObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/TreeRuleObject.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/TreeRuleObject.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/shared.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/types/shared.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/callFunction.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/callFunction.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/customEndpointFunctions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/customEndpointFunctions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/endpointFunctions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/endpointFunctions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateCondition.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateCondition.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateConditions.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateConditions.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateEndpointRule.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateEndpointRule.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateErrorRule.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateErrorRule.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateExpression.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateExpression.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateRules.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateRules.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateTemplate.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateTemplate.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateTreeRule.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/evaluateTreeRule.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointHeaders.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointHeaders.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointProperties.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointProperties.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointProperty.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointProperty.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointUrl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getEndpointUrl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getReferenceValue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/getReferenceValue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-endpoints/dist-types/ts3.4/utils/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-hex-encoding/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-hex-encoding/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/getSmithyContext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/getSmithyContext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/normalizeProvider.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-middleware/dist-types/ts3.4/normalizeProvider.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/AdaptiveRetryStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/AdaptiveRetryStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/ConfiguredRetryStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/ConfiguredRetryStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/DefaultRateLimiter.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/DefaultRateLimiter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/StandardRetryStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/StandardRetryStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/config.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/constants.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/constants.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/defaultRetryBackoffStrategy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/defaultRetryBackoffStrategy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/defaultRetryToken.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/defaultRetryToken.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-retry/dist-types/ts3.4/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/blob/Uint8ArrayBlobAdapter.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/blob/Uint8ArrayBlobAdapter.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/blob/transforms.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/blob/transforms.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/getAwsChunkedEncodingStream.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/getAwsChunkedEncodingStream.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/getAwsChunkedEncodingStream.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/getAwsChunkedEncodingStream.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/sdk-stream-mixin.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/sdk-stream-mixin.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/sdk-stream-mixin.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-stream/dist-types/ts3.4/sdk-stream-mixin.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/escape-uri-path.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/escape-uri-path.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/escape-uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/escape-uri.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-uri-escape/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/fromUtf8.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/fromUtf8.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/fromUtf8.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/fromUtf8.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUint8Array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUint8Array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUtf8.browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUtf8.browser.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUtf8.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@smithy/util-utf8/dist-types/ts3.4/toUtf8.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/webidl-conversions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/webidl-conversions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URL-impl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URL-impl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URL.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URL.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URLSearchParams-impl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URLSearchParams-impl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URLSearchParams.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/dist/URLSearchParams.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/whatwg-url/webidl2js-wrapper.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/whatwg-url/webidl2js-wrapper.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt/test-docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt/test-docker.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bson/dist/bson.browser.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bson/dist/bson.browser.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bson/dist/bson.browser.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bson/dist/bson.browser.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bson/dist/bson.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bson/dist/bson.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bson/dist/bson.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bson/dist/bson.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bson/etc/prepare.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bson/etc/prepare.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/color-support/bin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/color-support/bin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-xml-parser/src/cli/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fast-xml-parser/src/cli/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/semver/bin/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/semver/bin/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mongodb/etc/prepare.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb/etc/prepare.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-addon-api/tools/conversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-addon-api/tools/conversion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-fetch/node_modules/whatwg-url/lib/url-state-machine.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-fetch/node_modules/whatwg-url/lib/url-state-machine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/bin/nodemon.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/bin/nodemon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nopt/bin/nopt.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nopt/bin/nopt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nopt/examples/my-program.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nopt/examples/my-program.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rimraf/bin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rimraf/bin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/bin/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/bin/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/es5m/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/es5m/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sift/sift.csp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sift/sift.csp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/simple-update-notifier/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sprintf-js/dist/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/touch/bin/nodetouch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/touch/bin/nodetouch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/modules/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/tslib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/tslib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uuid/dist/bin/uuid" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uuid/dist/bin/uuid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wide-align/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/wide-align/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wide-align/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/wide-align/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wide-align/align.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/wide-align/align.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wide-align/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/wide-align/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontendNew/note_master_frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../frontendNew/note_master_frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/CreateNote.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/CreateNote.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/Notes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/Notes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontendNew/note_master_frontend/src/Components/SignIn.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eMlptRtUmXqmjQcm5Gh2IsaL6E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hiran/Desktop/Note_Master/Backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Backend" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a38af22-0dc5-41b7-bcf1-3b73af55fae3" name="Changes" comment="" />
+      <created>1711722514244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711722514244</updated>
+      <workItem from="1711722515611" duration="3525000" />
+      <workItem from="1711743796694" duration="44000" />
+      <workItem from="1711743849145" duration="11000" />
+      <workItem from="1711881346300" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
