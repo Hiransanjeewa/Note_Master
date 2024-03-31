@@ -12,7 +12,6 @@ COPY package.json package-lock.json /my-portfolio/
 
 # Installing dependencies
 RUN npm install
-RUN npm install react-router-dom
 
 
 # Copying all the files in our project
