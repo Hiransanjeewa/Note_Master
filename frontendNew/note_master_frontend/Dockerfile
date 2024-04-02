@@ -5,10 +5,10 @@ FROM node:alpine AS development
 ENV NODE_ENV development
 
 # Setting up the work directory
-WORKDIR /my-portfolio
+WORKDIR /workspace
 
 # Copying package.json and package-lock.json
-COPY package.json package-lock.json /my-portfolio/
+COPY package.json package-lock.json /workspace
 
 # Installing dependencies
 RUN npm install
